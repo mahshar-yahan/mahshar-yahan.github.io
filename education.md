@@ -10,13 +10,13 @@ layout: default
 
 B.Sc. in Computer Science and Engineering <br>
 February 2019 - June 2024 <br>
-CGPA: **3.75(with Honors)** / 4.00 <br>
+CGPA: **3.72** / 4.00 <br>
 
 ### Chittagong Cantonment Public College
 
 Higher Secondary School Certificate (HSC) <br>
 June 2016 - May 2018 <br>
-GPA: 4.83 out of 5.00 <br>
+GPA: **5.00** out of 5.00 <br>
 
 # International Certification
 ### Language Profociency Test-IELTS
