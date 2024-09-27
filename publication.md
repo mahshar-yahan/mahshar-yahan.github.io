@@ -14,7 +14,7 @@ th, td {
 ---
 ## Research Interest
 ---
-* Text-to-speech
+* Large Language Model
 * Natural Language Processing
 * Computer Vision
 * Machine and Deep Learning

@@ -11,9 +11,9 @@ is_contact: true
 
 ## Mailing Address
 
-> 265, Jagannath Para, Mirzapur
+> K-8/11, West Bilaspur
 >
-> Mirzapur-4334, Hathazari, Chittagong
+> Gazipur Sadar, Gazipur
 >
 > Bangladesh
 

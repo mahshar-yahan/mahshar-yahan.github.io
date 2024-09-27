@@ -5,47 +5,49 @@ layout: default
 <h1><code style="color: orangered">Projects</code></h1>
 
 ---
-## T20 Score Predictor: Cricket Score Predictor
+## GenreGenius: Multiclass Classification
 ---
 
 * Technologies/Tools: SKLearn, Pandas, Numpy
-* Github URL: [Project](https://github.com/ud0y/T20_Score_Prediction)
+* Github URL: [Project](https://github.com/mahshar-yahan/Multiclass-Book-Classification)
 * Goals and Objectives of the project: <br>
-    Created a machine learning model-integrated interactive web platform to forecast the cricket score after 20 overs. Essential features, including the batting and bowling teams, match location, run rate, wickets in hand, balls remaining, and previous scoring trends, were analyzed using XGBoost. The use of cutting-edge machine learning techniques for real-time sports analytics is demonstrated in this research.
+    We fine-tuned the Bangla BERT Large model to predict book genres from Bengali summaries. Using a dataset of 4.5K summaries labeled into seven genres (Fiction, Thriller, Children’s Books, Political, Sci-Fi, War, Motivational), this project bridges the gap in Bengali AI-driven book recommendations, helping readers discover new genres effortlessly. We have achieved accuracy of 83.56%.
 
-## Fruit And Vegetable Recognition: Image Classiﬁcation
+## FingerMatch Cricket: A Gesture-Based Game 
 ---
 
-* Technologies/Tools: OpenCV, Keras, Tensorﬂow
-* Github URL: [Project](https://github.com/ud0y/Fruit-and-vegetable-recognition)
+* Technologies/Tools: Mediapipe, OpenCV, Tensorflow
+* Github URL: [Project](https://github.com/mahshar-yahan/Gesture-Cricket)
 * Goals and Objectives of the project: <br>
-    We have experimented with the identiﬁcation of fruits and vegetables through the use of image classiﬁcation methods. Acquired photos of ﬁve novel fruit and vegetable varieties and added them to the "Fruit-360" dataset. Created, trained, and evaluated a Convolutional Neural Network (CNN) model using the enlarged dataset. reﬁned pre-trained VGG-16 and VGG-19 models; the reﬁned VGG-19 demonstrated proﬁciency in computer vision, transfer learning, and model optimization, with 94% accuracy over 136 classes.
+    FingerMatch Cricket is an interactive game that leverages hand gestures to simulate a cricketmatch. Using MediaPipe, the game detects the number of fingers shown by the player. The objective is simple: if the player and the computer display the same number of fingers, the player is out. Otherwise, the player’s run count increases.
 
-## PYBANGLA: Text Normalizer Module
+## TokenTagger: Name Entity Recognition
 ---
 
-* Technologies/Tools: Python, Regex
-* Github URL: [Project](https://github.com/saiful9379/pybangla)
+* Technologies/Tools: Transformers, Pandas, Numpy
+* Github URL: [Project](https://github.com/mahshar-yahan/Keyword-Extraction-BERT)
 * Goals and Objectives of the project: <br>
-    PYBANGLA, a Python3 module for Bangla Language is compatible with Django, Flask, FastAPI, and runs on Linux/Unix, Mac OS, and Windows platforms. The key features include:
-    - Text Normalization: Converts dates, phone numbers, currency, symbols, abbreviations, and numbers into Bangla textual format, along with punctuation correction.
-    - Number Conversion: Transforms Bangla text into numeric values.
-    - Date Formatting: Parses and formats Bangla dates.
-    - Emoji Removal: Cleans text by removing emojis.
-    - Easily installable via pip, offering integration with various Python frameworks.
+    TokenTagger leverages BERT to perform Named Entity Recognition (NER) by fine-tuning on the CoNLL-2003 dataset. It aligns tokenized inputs with labels to improve NER tag predictions and utilizes the seqeval metric to compute precision, recall, F1 score, and accuracy. This model aims to enhance the accuracy of token classification tasks in real-world applications. Here we have achieved the accuracy of 97.32%
 
-## NOKSHA: An E-commerce Website
+## CloudTask Optimizer: Performace Analysis of Task Scheduling Algorithm
 ---
 
-* Technologies/Tools: MongoDB, ExpressJS, ReactJS, NodeJS
-* Github URL: [Project](https://github.com/ud0y/noksha-react)
+* Technologies/Tools: FCFS, SJF, SVM, Linear Regression, Random Forest
+* Github URL: [Project](https://github.com/mahshar-yahan/-Performance-Analysis-of-Task-Scheduling-Algorithms-in-Cloud-Computing-)
 * Goals and Objectives of the project: <br>
-    It is an e-commerce website for clothing shops. Using this website customers can develop his/her proﬁle. Customers can search and buy clothes of different categories.
+     CloudTask Optimizer analyzes the efficiency of task scheduling algorithms in cloud computing. By comparing FCFS, SJF, and Priority Scheduling, alongside machine learning models like random forest, decision tree, and linear regression, the project assesses delay times and execution efficiency, highlighting SJF minimal delay advantage and Priority Scheduling effectiveness with correct prioritization.
 
-## Electricity Billing System
+## ExploreHub: Your Travel Companion
 ---
 
-* Technologies/Tools: Java
-* Github URL: [Project](https://github.com/ud0y/Electricity-Billing-System)
-* Goals and Objectives of the project: <br>
-    Developed in Java, this system enables administrators to calculate electricity bills by inputting customer usage. It also facilitates bill printing in the correct format.
+* Technologies/Tools: Dart, Flutter, Firebase
+* Github URL: [Project](https://github.com/mahshar-yahan/Travel-App)
+* ExploreHub is a user-friendly travel app that provides detailed information about various travel destinations. Users can explore different places, leave comments, and like interesting destinations.
+
+##  MediScript: A digital Prescription System
+---
+
+* Technologies/Tools: PHP, HTML, Bootstrap, MySQL
+* Github URL: [Project]
+* MediScript is a PHP-based system designed for doctors to create digital prescriptions, enabling patients to access them anytime. The platform includes features such as secure login/logout, report uploads,
+patient file management, and an appointment booking system, streamlining healthcare management for both doctors and patients.
