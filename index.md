@@ -25,7 +25,7 @@ Chittagong University of Engineering and Technology
 
 </div>
 
-Find my [Academic CV Here](https://drive.google.com/file/d/1X8gGQWYzOyQb5dJftjNs0QeT6fM-eHCX/view?usp=sharing)
+Find my [Academic CV Here](https://drive.google.com/file/d/1Z-ob3mClcczpJ_7_L0fji2IvMv5dnufQ/view?usp=sharing)
 
 
 <table>
