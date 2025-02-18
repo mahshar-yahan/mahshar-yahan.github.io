@@ -70,6 +70,6 @@ Here are some learning resources I found useful -
 Qoute that inspires
 
 > Focus more on your desire than on your doubt, and the dream will take care of itself. - 
-*Abraham Lincoln*
+*Mark Twain*
 
 ---
