@@ -18,10 +18,9 @@ Higher Secondary School Certificate (HSC) <br>
 June 2016 - May 2018 <br>
 GPA: **5.00** out of 5.00 <br>
 
-# International Certification
 ### Language Profociency Test-IELTS
 
 
 Score: 7.0 (Score Card)
-Listening - 7.0 | Reading - 7.5 | Speaking - 7.0 | Writing - 6.5
+Listening - 7.0 | Reading - 7.5 | Speaking - 7.0 | Writing - 6.5<br>
 Test taken: Dec 4, 2024 
