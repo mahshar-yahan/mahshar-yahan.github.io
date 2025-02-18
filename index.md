@@ -9,6 +9,9 @@ th, td {
 </style>
 
 # Mahshar Yahan
+Lecturer<br>
+Uttara University
+
 B. Sc. in Computer Science and Engineering, <br>
 Chittagong University of Engineering and Technology
 
