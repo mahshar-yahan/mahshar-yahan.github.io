@@ -18,7 +18,11 @@ Chittagong University of Engineering and Technology
 <img class="profile-picture" src="Mahshar Yahan.jpg">
 
 <div style="text-align: justify">
-    Hi! I am a dedicated and enthusiastic <b>Python</b> developer with a strong interest in <b>machine learning</b> and <b>deep learning</b>. I've also had a long-standing interest in <b>Natural Language Processing</b>, which has been a significant area of my competence. My extensive knowledge of these subjects, as well as practical experience applying their concepts to a variety of projects, have driven my interest for them. I regard myself as a dedicated, punctual, and truthful individual that is always eager to learn and take on new challenges.
+
+    <!-- Hi! I am a dedicated and enthusiastic <b>Python</b> developer with a strong interest in <b>machine learning</b> and <b>deep learning</b>. I've also had a long-standing interest in <b>Natural Language Processing</b>, which has been a significant area of my competence. My extensive knowledge of these subjects, as well as practical experience applying their concepts to a variety of projects, have driven my interest for them. I regard myself as a dedicated, punctual, and truthful individual that is always eager to learn and take on new challenges. -->
+
+     I am Mahshar Yahan, a <b>Passionate researcher, prospective PhD student and educator</b> in Computer Science with a focus on <b>Natural Language Processing (NLP), Machine Learning (ML), and Deep Learning (DL)</b>. I completed my B.Sc. in Computer Science and Engineering from Chittagong University of Engineering and Technology (CUET). My undergraduate thesis explored Bangla question-answering using Generative Transformer models(text based), showcasing my ability to innovate despite limited resources. Currently, I serve as a <b>Lecturer</b> at <b>Uttara University</b>, inspiring students to delve into NLP and AI research. I have published multiple research papers, including award-winning work on Bangla text processing. My journey reflects resilience, adaptability, and a commitment to leveraging technology for societal benefit.
+
 </div>
 
 Find my [Academic CV Here](https://drive.google.com/file/d/1X8gGQWYzOyQb5dJftjNs0QeT6fM-eHCX/view?usp=sharing)
