@@ -1,60 +1,77 @@
-# Researcher
+# Personal Portfolio 🔥
+> https://rajaprerak.github.io/
 
-### [Demo Website](http://ankitsultana.com/researcher)
+:star: Star me on GitHub — it helps!
 
-A clean, single column, monospace resume template built for jekyll
+[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/rajaprerak/rajaprerak.github.io/commits/master)
+[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://rajaprerak.github.io/)
+[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/rajaprerak/)
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-### Installation
+### Website Preview
+#### Home Page
+<img src="website_images/HomePage.gif" width="900">
 
-Simply fork the repository and edit away.
 
-#### Installation via remote themes
+#### About Page
+<img src="website_images/AboutPage.png" width="900">
 
-* Just setting `remote_theme: ankitsultana/researcher@gem` in `_config.yml` should work. Although in that case, I am not sure how
-you would build your site locally for testing. If you know how, open up an issue and let me know.
-* For more info, [refer this](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/).
 
-### Customization
+#### Projects Page
+<img src="website_images/ProjectPage.png" width="900">
+  
 
-* You can edit the `.md` (markdown) files as you see fit. You can also add some other markdown file, say `foo.md` in the root directory of the repository. It will then be accessible like so `{{ url of your website }}/foo`.
 
-* You can of course remove `contact.md` if you don't want it
+:star: Star me on GitHub — it helps!
 
-* To set the heading, edit the `title` variable in `_config.yml`
+## Features 📋
+⚡️ Fully Responsive\
+⚡️ Valid HTML5 & CSS3\
+⚡️ Typing animation using `Typed.js`\
+⚡️ Easy to modify
 
-* To edit the `links` mentioned on the navigation bar, you can edit `_config.yml`. For example:
+## Installation & Deployment 📦
+- Clone the repository and modify the content of <b>index.html</b> 
+- Add or remove images from `assets/img/` directory as per your requirement.
+- Update the info of `projects` folder according to your need
+- Use [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to create your own website.
+- To deploy your website, first you need to create github repository with name `<your-github-username>.github.io` and push the generated code to the `master` branch.
 
-```
-nav:
- - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
-```
+## Sections 📚
+✔️ About\
+✔️ Interests\
+✔️ Education\
+✔️ Online Certification\
+✔️ Experience\
+✔️ Projects \
+✔️ Skills \
+✔️ Resume\
+✔️ Contact Info
 
-* You can change the accent (color of hyperlinks) by editing the `accent` variable in `_sass/vars.scss`
 
-* You can setup google analytics, by setting `tracking_id` in `_config.yml`
 
-* To add a profile picture, make sure to give the image tag the class `profile-picture`. In other words,do it like so:
+## Tools Used 🛠️
+* <b>GitHub Pages</b> - To host my static website (HTML, CSS, JS).
 
-```html
-<img class="profile-picture" src="sherlock.jpg">
-```
+## Contributing 💡
+#### Step 1
 
-* You can remove/customize the footer as you like by setting the
-appropriate variables in `_config.yml`
+- **Option 1**
+    - 🍴 Fork this repo!
 
-* (New in v1.2.0) You can add institute logo at the top, by setting `ins_logo` in `_config.yml`. If you want
-to adjust the logo's size, try setting `max-height` in `#ins-logo` in file `./_sass/_style.scss` to the desired
-value
+- **Option 2**
+    - 👯 Clone this repo to your local machine.
 
-![Institute Logo Image Sample](https://github.com/ankitsultana/assets/raw/master/ins-logo-sample.png)
 
-**Note:** Customizing the accent color might cause merge conflicts if you later try to merge from `bk2dcradle/researcher` to fetch updates/patches etc. (applicable only if you have forked).
+#### Step 2
 
-### License
+- **Build your code** 🔨🔨🔨
 
-[GNU GPL v3](https://github.com/bk2dcradle/researcher/blob/gh-pages/LICENSE)
+#### Step 3
+
+- 🔃 Create a new pull request.
+
+## License
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
